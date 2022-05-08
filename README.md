@@ -1,2 +1,2 @@
 # Selenium-pyhton
-mini selenium projects
+Mini Selenium Projects
