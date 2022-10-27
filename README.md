@@ -6,3 +6,10 @@ It is designed for taking your repository names automatically.
 Firstly,intall packages(selenium) and put chrome-driver.exe in soruce file.
 In githubuserınfo,you have to write your github username and password.
 Then,your repos is in Excel file.
+
+# Selenium for add something from excel to backet on Trendyol
+
+It is designed for taking your repository names automatically.
+Firstly,intall packages(selenium) and put chrome-driver.exe in soruce file.
+In githubuserınfo,you have to write your github username and password.
+Then,your repos is in Excel file.
